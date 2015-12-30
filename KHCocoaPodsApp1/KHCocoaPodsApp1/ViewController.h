@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)passThroughStringClicked:(id)sender;
 
 @end
 
